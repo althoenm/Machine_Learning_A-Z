@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\part_1_preprocessing"
+		},
+		{
+			"path": "..\\..\\part_3_classification"
+		}
+	],
+	"settings": {}
+}
